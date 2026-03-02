@@ -55,7 +55,7 @@ Em outros mais atuais ficaria algo assim:
 - **Encryption/Criptografia**: AES;
 - **PSK Password/Senha do wireless**: "SuaSenha";
 - **Group Key Update Period/Periodo de atualização da chave de grupo**: "value( 0 - ... )"
-	- Recomendo colocar 13400, isso faria com que o dispositivo troque sua configuração do **GTK - Group Temporal Key** a cada 2 horas, evitando alguns tipos de ataque a sua rede. Em casos de problema com lentidão após esse período de tempo, aumente o intervalo entre as trocas **(6 horas -> 21600 | 12 horas -> 43200)**.
+	- Recomendo colocar 7200, isso faria com que o dispositivo troque sua configuração do **GTK - Group Temporal Key** a cada 2 horas, evitando alguns tipos de ataque a sua rede. Em casos de problema com lentidão após esse período de tempo, aumente o intervalo entre as trocas **(6 horas -> 21600 | 12 horas -> 43200)**.
 # Rede visitante 
 (Cuidado que essa opção provavelmente vai afetar o desempenho da rede como um todo)
 1. Procure essa opção (Não é todo dispositivo que possui essa função)
