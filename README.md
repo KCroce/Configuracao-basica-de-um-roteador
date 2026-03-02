@@ -6,8 +6,11 @@ O dispositivo utilizado é um **TPLINK**, para conseguir se conectar procure por
 ## Conecte em http://192.168.1.1
 - **user:** admin
 - **password:** admin
-Confira se esse realmente é o modelo do dispositivo que você quer modificar.
-  <img width="414" height="93" alt="Pasted image 20260228142942" src="https://github.com/user-attachments/assets/3482c494-d197-4754-bde9-8e0d1d438db8" />
+  
+Confira se esse realmente é o modelo do dispositivo que você quer modificar:
+
+<img width="414" height="93" alt="Pasted image 20260228142942" src="https://github.com/user-attachments/assets/3482c494-d197-4754-bde9-8e0d1d438db8" />
+
 ## Modificação IP para evitar conflito(Opcional)
 Acredito que essa seja a modificação mais interessante até o fim da configuração ela permite que você fique conectado na sua rede doméstica enquanto modifica esse dispositivo sem problemas.
 1. <img width="208" height="89" alt="Pasted image 20260228143254" src="https://github.com/user-attachments/assets/9e5d9067-7d0f-43f8-a017-d01fdc218df0" />
